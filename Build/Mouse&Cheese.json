@@ -1,0 +1,17 @@
+{
+"companyName": "Andkhi",
+"productName": "Mouse&Cheese",
+"productVersion": "0.2",
+"dataUrl": "Mouse&Cheese.data.unityweb",
+"asmCodeUrl": "Mouse&Cheese.asm.code.unityweb",
+"asmMemoryUrl": "Mouse&Cheese.asm.memory.unityweb",
+"asmFrameworkUrl": "Mouse&Cheese.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.17f1"
+}
